@@ -10,6 +10,7 @@ Steps:-<br>
 5. Fill Customer Details & click generate bill button  <br>
 6. Add each item details by clicking add button & end with total button <br>
 7. Clear & Reset Button for new bill <br>
+8. Working Calculator <br>
 # OutPut Screenshots <br>
 ![Screenshot (386)](https://github.com/sonurana0206/restaurant_billing_system/assets/158328993/322a44b8-2224-4441-b561-3b8e5d22f02d)
 ![Screenshot (387)](https://github.com/sonurana0206/restaurant_billing_system/assets/158328993/1914ebe8-3028-4fce-ba98-2814b12cc3c8)
